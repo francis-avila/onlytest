@@ -29,7 +29,7 @@ public class RadioButton {
 				oElement.get(i).click();
 				System.out.println("You clicked " + sValue);
 			}else {
-				//System.out.println("You did not click anything.");
+				System.out.println("You did not click anything.");
 			}	
 			
 		}
